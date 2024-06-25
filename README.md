@@ -3,7 +3,8 @@
 ## Overview
 This Java application demonstrates object detection using YOLOv4 with OpenCV. It detects objects in an input image and annotates them with bounding boxes and labels.
 
-![Example Detection](example_detection.jpg)
+![Example Detection](https://github.com/Raufjatoi/Object-Detection-App)
+
 
 ## Prerequisites
 1. **Java Development Kit (JDK)**: Ensure JDK is installed.
