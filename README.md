@@ -14,7 +14,7 @@ This Java application demonstrates object detection using YOLOv4 with OpenCV. It
    
 2. **OpenCV Setup**:
    - Download and extract OpenCV for Java.
-   - Set the path to the OpenCV native library (`opencv_javaXXXX.dll` or `libopencv_javaXXXX.so`) in the code:
+   - Set the path to the OpenCV native library (`opencv_java490.dll` ) in the code:
      ```java
      System.load("path_to_opencv_java_dll");
      ```
